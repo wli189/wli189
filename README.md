@@ -24,3 +24,6 @@ I’m currently working on a 3D third-person game using Unity.
 
 ### ⚡Skills
 Programming language: C/C++, Java, JavaScript, HTML/CSS, Markdown, C#
+
+### 🚀 Looking For
+I am currently seeking software development opportunities.
