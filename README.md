@@ -27,4 +27,4 @@ Programming language: C/C++, Java, JavaScript, HTML/CSS, Markdown, C#
 ### 🚀 Looking For
 I am currently seeking software development opportunities.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wli189&show_icons=true&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wli189\&show_icons=true\&hide=stars\&rank_icon=github\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
