@@ -22,7 +22,7 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 I’m currently working on a 3D third-person game using Unity - [The Bunker Fell](https://github.com/wli189/The-Bunker-Fell-Prototype)
 
 ### ⚡Skills
-Programming language: C/C++, Java, JavaScript, HTML/CSS, Markdown, C#
+Programming language: C/C++, Java, SQLite, Python, JavaScript, HTML/CSS, Markdown, C#
 
 ### 🚀 Looking For
 I am currently seeking software development opportunities.
