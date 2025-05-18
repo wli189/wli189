@@ -26,7 +26,6 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 | [The Bunker Fell](https://github.com/wli189/The-Bunker-Fell-Prototype) | A 3D game developed using Unity |
 | [Gobblet Gobblers](https://github.com/wli189/Gobblet-Gobblers) | A 2D console turn-based game similar to tic-tac-toe |
 
-
 ### ⚡Skills
 Programming language: C/C++, Java, SQLite, Python, F#, Golang, C#, JavaScript, HTML/CSS, Markdown
 
