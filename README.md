@@ -28,7 +28,7 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 
 
 ### ⚡Skills
-Programming language: C/C++, Java, SQLite, Python, JavaScript, HTML/CSS, Markdown, C#
+Programming language: C/C++, Java, SQLite, Python, F#, Golang, C#, JavaScript, HTML/CSS, Markdown
 
 ### 🚀 Looking For
 I am currently seeking software development opportunities.
