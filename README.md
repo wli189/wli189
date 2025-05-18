@@ -24,7 +24,7 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 | [WeatherApp](https://github.com/wli189/Weather-APP)   | A weather application in Java that provides real-time weather updates with the National Weather Service Api    |
 | [Connect Four](https://github.com/wli189/Connect-Four)   | A Connect Four game in Jave and SQLite   |
 | [The Bunker Fell](https://github.com/wli189/The-Bunker-Fell-Prototype) | A 3D game developed using Unity |
-| [Gobblet Gobblers](https://github.com/wli189/Gobblet-Gobblers) | a 2D console turn-based game similar to tic-tac-toe |
+| [Gobblet Gobblers](https://github.com/wli189/Gobblet-Gobblers) | A 2D console turn-based game similar to tic-tac-toe |
 
 
 ### ⚡Skills
