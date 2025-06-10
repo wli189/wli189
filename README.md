@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 🌱 About Me
 I’m a Computer Science student at the University of Illinois Chicago with a strong passion for all things computer-related. As a member of the ACM at UIC, I’ve joined the SIG-Game group, where I’m collaborating with friends to develop our own game.
 
-### 🔭 Project
+### 🔭 Projects
 | Project | Description |
 |----------|----------|
 | [Weather App](https://github.com/wli189/Weather-APP)   | A weather application in Java that provides real-time weather updates with the National Weather Service Api    |
