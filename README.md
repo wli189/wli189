@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 About Me
-I’m a Computer Science student at the University of Illinois Chicago with a strong passion for all things computer-related. As a member of the ACM at UIC, I’ve joined the SIG-Game group, where I’m collaborating with friends to develop our own game.
-
+I’m a Computer Science student at the University of Illinois Chicago with a strong passion for all things computer-related.
 ### 🔭 Projects
 | Project | Description |
 |----------|----------|
