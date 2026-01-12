@@ -25,7 +25,7 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 | [Connect Four](https://github.com/wli189/Connect-Four)   | A Connect Four game in Java and SQLite   |
 
 ### ⚡Skills
-Programming language: C/C++, Java, SQLite, Python, F#, Golang, C#, JavaScript, HTML/CSS, Markdown
+Programming language: C/C++, Java, SQL, Python, JavaScript, HTML/CSS, GO
 
 ### 🚀 Looking For
 I am currently seeking software development opportunities.
