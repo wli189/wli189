@@ -21,8 +21,8 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 | Project | Description |
 |----------|----------|
 | [Show Saver](https://github.com/wli189/Project-TVDB) | A movie database with personal rating |
-| [Weather App](https://github.com/wli189/Weather-APP)   | A weather application in Java that provides real-time weather updates with the National Weather Service Api    |
 | [Connect Four](https://github.com/wli189/Connect-Four)   | A Connect Four game in Java and SQLite   |
+| [Weather App](https://github.com/wli189/Weather-APP)   | A weather application in Java that provides real-time weather updates with the National Weather Service Api    |
 
 ### ⚡Skills
 Programming language: C/C++, Java, SQL, Python, JavaScript, HTML/CSS, GO
