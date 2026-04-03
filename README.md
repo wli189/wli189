@@ -25,7 +25,7 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 | [Weather App](https://github.com/wli189/Weather-APP) | A weather application built in Java that provides real-time weather updates with the National Weather Service Api |
 
 ### ⚡Skills
-Programming language: C/C++, Java, SQL, Python, JavaScript, HTML/CSS, GO
+Programming language: C/C++, Java, SQL, Python, JavaScript, HTML/CSS
 
 ### 🚀 Looking For
 I am currently seeking software development opportunities.
