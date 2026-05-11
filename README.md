@@ -20,8 +20,8 @@ I’m a Computer Science student at the University of Illinois Chicago with a st
 ### 🔭 Projects
 | Project | Description |
 |----------|----------|
-| [Hamster Handyman](https://github.com/cloudiees/CS426-Final-Project) | A 3D stealth-puzzle game built in Unity featuring AI decision-making via Bayesian Networks. |
-| [Refocus](https://github.com/jkoe143/cs422-refocus) | A productivity web app built with TypeScript and Vite that uses HCI principles to minimize digital distractions. |
+| [Hamster Handyman](https://github.com/wli189/Hamster-Handyman) | A 3D stealth-puzzle game built in Unity featuring AI decision-making via Bayesian Networks. |
+| [Refocus](https://github.com/wli189/Refocus) | A productivity web app built with TypeScript and Vite that uses HCI principles to minimize digital distractions. |
 | [Show Saver](https://github.com/wli189/Project-TVDB) | A movie and TV show database platform built with Flask and React featuring personal rating and tracking systems. |
 | [Connect Four](https://github.com/wli189/Connect-Four) | A turn-based Connect Four game built in Java with SQLite for data storage. |
 | [Weather App](https://github.com/wli189/Weather-APP) | A weather application built in Java that provides real-time weather updates with the National Weather Service Api. |
