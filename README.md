@@ -13,9 +13,7 @@ I'm a Computer Science graduate at UIC who loves understanding how things work u
 | [Weather App](https://github.com/wli189/Weather-APP) | A weather application built in Java that provides real-time weather updates with the National Weather Service Api. |
 
 ### Skills
-Programming language: C/C++, Java, SQL, Python, JavaScript, HTML/CSS
+Programming languages: Python, Java, C/C++, SQL, JavaScript, C#
 
 ### Looking For
 I am currently seeking software development opportunities.
-
-![Anurag's GitHub stats](http://github-readme-stats-ten-fawn-45.vercel.app/api?username=wli189&show_icons=true&hide=stars&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
